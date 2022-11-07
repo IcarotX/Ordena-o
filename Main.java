@@ -17,7 +17,7 @@ public class Main {
     System.out.println();
 
     long inicio = System.nanoTime();
- // Método Ordenação 
+ // Método Ordenação (apenas mudar o nome do método)
     ordena.Buble(vetor);
     long fim = System.nanoTime();
     long intervalo = fim - inicio;
