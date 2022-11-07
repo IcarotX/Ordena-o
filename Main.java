@@ -22,7 +22,7 @@ public class Main {
     long fim = System.nanoTime();
     long intervalo = fim - inicio;
     ordena.impressao(vetor);
-    ordena.status(inicio, fim, intervalo);
+    ordena.status(intervalo);
 
   }
 }
