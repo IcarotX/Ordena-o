@@ -71,6 +71,7 @@ public class ordena {
 	    }	    
 	}
 
+  // Método para imprimir o tempo da ordenação
   public static void status(long intervalo){
     System.out.println("\n O tempo total da ordenação foi de: " + intervalo + " nanosegundos.");
   }
